@@ -1,0 +1,65 @@
+body{
+text-align: center;
+box-sizing: border-box;
+}
+
+p{
+font-size: small;
+margin:0;
+
+}
+
+.content-icons{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px #999;
+}
+.content-icons:hover{
+  background:#F6D9F7;
+  margin: 5px;
+}
+.avion{
+  background-color: rgba(158, 158, 158, 0.1);
+  color:rgba(173, 144, 168, 0.85);
+  margin: 0px;
+  font-family: 'Shadows Into Light Two', cursive;
+  overflow: hidden;
+}
+
+.ruby{
+  background-color: rgba(158, 158, 158, 0.1);
+  color: rgba(173, 144, 168, 0.85);
+  margin:0px;
+  font-family: 'Sacramento', cursive;
+  overflow: hidden;
+}
+
+.css{
+  background-color: rgba(158, 158, 158, 0.1);
+  color:rgba(173, 144, 168, 0.85);
+  margin: 0px;
+  font-family: 'Just Another Hand', cursive;
+  overflow: hidden;
+}
+
+
+.cafe{
+  background-color: rgba(158, 158, 158, 0.1);
+  color:rgba(173, 144, 168, 0.85);
+  margin:0px;
+  font-family: 'Shadows Into Light Two', cursive;
+  overflow: hidden;
+}
+
+.comida{
+  background-color: rgba(158, 158, 158, 0.1);
+  color: rgba(173, 144, 168, 0.85);
+  width: 200px;
+  display: inline-block;
+  margin:0px;
+  font-family: 'Just Another Hand', cursive;
+  overflow: hidden
+}
